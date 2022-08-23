@@ -8,7 +8,7 @@ Here i have clone the [paytm.com](https://paytm.com/) home page using HTML and T
 ![badge](https://img.shields.io/badge/Time%20Taken-15hr-brightgreen)
 
 ### Live Link of this Project
-[ProjectLink](https://fsjswdproject16_paytmclone.netlify.app)
+[ProjectLink](https://fsjswdproject16paytmclone.netlify.app/)
 
 ## Screen shorts of this Project
 
