@@ -1,4 +1,4 @@
-# Project 16 Paytm Clone
+# Paytm Clone
 
 ## Santanu Kumar Sahu
 
